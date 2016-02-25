@@ -7,7 +7,7 @@ EPSILON
 [Epsilon][machine-epsilon] is defined as
 
 <div class="equation" align="center" data-raw-text="\epsilon = b^{-(p-1)}" data-equation="eq:epsilon_float32">
-	<img src="" alt="Epsilon for a single-precision floating-point number.">
+	<img src="https://cdn.rawgit.com/const-io/eps-float32/6619da5dedae9573bf55de97b96e62bd50daed8d/docs/img/epsilon.svg" alt="Epsilon for a single-precision floating-point number.">
 	<br>
 	<br>
 </div>
