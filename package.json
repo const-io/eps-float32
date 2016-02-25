@@ -1,6 +1,6 @@
 {
   "name": "const-eps-float32",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Difference between one and the smallest value greater than one that can be represented as a single-precision floating-point number.",
   "author": {
     "name": "Athan Reines",
